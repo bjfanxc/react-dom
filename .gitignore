@@ -9,4 +9,5 @@ npm-debug.log
 
 yarn-error.log
 coverage/
-build/ 
+build/
+.next/
